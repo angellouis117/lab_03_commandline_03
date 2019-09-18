@@ -36,7 +36,19 @@ $ touch foo.txt
 $ ls
 Copy and paste the output below.
 ----------
-
+AMALogger20190109.log		Library				google.zip
+AMALogger20190308.log		MPLABXProjects			hello.txt
+AMALogger20190829.log		Movies				ipe.properties
+AMALogger20190903.log		Music				isus
+AMALogger20190910.log		Pictures			mtec1002
+AMALogger20190912.log		Public				mtec1002-lab-02
+AMALogger20190917.log		QLData				mtec1002-lab-03.tar
+Adlm				Things				pymel.log
+Adobe				Wilson-MTEC2230-Fall2019	stuff
+Applications			__MACOSX			usb
+Desktop				davidc11			xgen
+Documents			foo.txt
+Downloads			food.tar.gz.cpgz
 
 
 ==========
